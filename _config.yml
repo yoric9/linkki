@@ -2,7 +2,7 @@ title: LINKKI
 description: LINKKI source files for non-commercial use only, particularly for educators and makers. For commercial use, please contact me via yoric9 at gmail dot com. This site is under construction and I'm updating very slowly.
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
